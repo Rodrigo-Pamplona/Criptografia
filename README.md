@@ -1,1 +1,1 @@
-"# Criptografia" 
+Desenvolvimento de um sistema de criptografia utilizando a operação lógica XOR, com suporte ao uso de chaves externas personalizadas. O programa permite a geração automática de chaves aleatórias, armazenamento seguro em arquivos e criptografia simétrica de mensagens com base na chave fornecida pelo usuário.
